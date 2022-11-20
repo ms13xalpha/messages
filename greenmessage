@@ -1,5 +1,5 @@
 {
-"Ads": "true",
+"Ads": "false",
 "qurekha": false,
 "qurekhaLink": "",
 "backAds": true,
@@ -15,5 +15,5 @@
 "hideIsTimerCount":0,
 "isTimerListing": true,
 "isTimerListingCount":0,
-"Ads_Type":"iron"
+"Ads_Type":"adx"
 }
